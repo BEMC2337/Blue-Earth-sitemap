@@ -6,18 +6,18 @@
                       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <url>
-    <loc>https://sites.google.com/blue-earth.co.nz/blue-earth/home</loc>
+    <loc>https://www.blue-earth.co.nz/</loc>
   </url>
   <url>
-    <loc>https://sites.google.com/blue-earth.co.nz/blue-earth/capabilities</loc>
+    <loc>https://www.blue-earth.co.nz/capabilities</loc>
   </url>
   <url>
-    <loc>https://sites.google.com/blue-earth.co.nz/blue-earth/past-projects</loc>
+     <loc>https://www.blue-earth.co.nz/past-projects</loc>
   </url>
   <url>
-    <loc>https://sites.google.com/blue-earth.co.nz/blue-earth/plant-and-boat-hire</loc>
+     <loc>https://www.blue-earth.co.nz/plant-and-boat-hire</loc>
   </url>
   <url>
-    <loc>https://sites.google.com/blue-earth.co.nz/blue-earth/contact</loc>
+    <loc>https://www.blue-earth.co.nz/contact</loc>
   </url>
 </urlset>
